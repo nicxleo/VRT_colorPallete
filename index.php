@@ -1,1 +1,1 @@
-<?php header('Location: palette.html')>
+<?php header('Location: /palette.html'); ?>
